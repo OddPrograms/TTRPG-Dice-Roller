@@ -1,0 +1,40 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.container-fluid {
+    height: 100%;
+    background-color: #121313;
+}
+
+button {
+    background-color: #1C1C1C;
+    border: none;
+    color: #AAAAAA;
+    padding: 10px;
+    width: 125px;
+    cursor: pointer;
+}
+
+.placeholder {
+    height: 100px;
+    width: 100px;
+    margin: 20px auto;
+    margin-top: 50px;
+    border: 1px solid #1C1C1C;
+    background-color: #1C1C1C;
+    border-radius: 10px;
+    cursor: default;
+}
+
+.placeholderText {
+    height: 100px;
+    width: 100px;
+    font-size: 70px;
+    color: #AAAAAA;
+    padding: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    cursor: default;
+}
